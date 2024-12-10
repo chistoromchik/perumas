@@ -69,7 +69,7 @@ button{
 }
 .dropdown-menu a{
     position: relative;
-    z-index: 3;
+    z-index: 99999999;
     display: block;
     padding: 10px 20px;
     color: #333;
